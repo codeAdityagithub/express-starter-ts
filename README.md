@@ -19,19 +19,33 @@
 
 ## Folder Structure
 .
+
 ├── src/
+
 │   ├── controllers/
+
 │   ├── middlewares/
+
 │   ├── routers/
+
 │   ├── models/
+
 │   └── index.ts
+
 ├── public/
+
 │   └── ...
+
 ├── types/
+
 │   └── ...
+
 ├── .env.example
+
 ├── .gitignore
+
 ├── package.json
+
 └── tsconfig.json
 
 
