@@ -12,7 +12,7 @@
 - **Logging**: Integrated HTTP request logging using Morgan middleware for enhanced debugging and monitoring.
 
 ## Getting Started
-1. Clone this repository: `git clone https://github.com/your-username/express-typescript-starter.git`
+1. Clone this repository: `git clone https://github.com/codeAdityagithub/express-starter-ts.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm run dev`
 4. Build for production: `npm run build` and `npm run start`
